@@ -1,7 +1,7 @@
 # budget notify
 
-![example workflow](https://github.com/vkmrishad/budget-notify/actions/workflows/black.yaml/badge.svg?branch=main)
-![example workflow](https://github.com/vkmrishad/budget-notify/actions/workflows/test.yaml/badge.svg?branch=main)
+![example workflow](https://github.com/vkmrishad/budget-notify/actions/workflows/black.yml/badge.svg?branch=main)
+![example workflow](https://github.com/vkmrishad/budget-notify/actions/workflows/test.yml/badge.svg?branch=main)
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 
 ## System dependencies
